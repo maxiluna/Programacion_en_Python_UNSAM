@@ -5,9 +5,9 @@ Created on Tue Mar 23 21:41:30 2021
 @author: maximiliano.luna
 """
 
-#informe.py
+# informe.py
 
-#Ejercicio 2.18
+# Ejercicio 2.18
 
 import csv
 ...
