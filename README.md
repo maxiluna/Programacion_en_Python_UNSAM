@@ -56,5 +56,3 @@ investigadores del CONICET: [Oscar Filevich](http://labning.com.ar/#nosotros) es
 Dr. en Química y trabaja en neurofisiología; [Rafael Grimson](http://investigadores.unsam.edu.ar/es/investigador/407/Grimson-Rafael) es Lic. en Matemática, 
 Dr. en Computación y trabaja en temas ambientales, una JTP (Manuela Cerdiero) y dos ayudantes (Iván Pedrón y Daniela Alban). Además, probablemente contemos con [Matias López-Rosenfeld](https://futuros-estudiantes.dc.uba.ar/un-profesor-del-departamento-de-computacion-distinguido-por-facebook/) como profesor invitado.
 
-## Preinscripción
-La preinscripción al curso que comienza el miércoles 10 de marzo a las 14hs ya cerró. Para que te informemos de futuras adiciones completá [este formulario](https://forms.gle/qfdKoUyyKYqEL6Zp6).
